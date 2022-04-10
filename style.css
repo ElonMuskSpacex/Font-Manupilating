@@ -1,0 +1,32 @@
+.heading{
+    font-size:30px;
+    width:96%;
+    margin: 0px;
+    box-shadow: 6px 6px 6px cornflowerblue;
+}
+
+.note{
+    font-size:25px;
+    color: darkcyan;
+}
+
+.copyrightfooter{
+    position: fixed;
+    width: 100%;
+    background-color:blanchedalmond ;
+    color: crimson;
+    line-height: 5;
+    text-align: center;
+    bottom: 0;
+    font-size: 30px;
+}
+
+canvas{
+    border: 7px solid grey;
+    border-radius: 70px;
+    box-shadow:10px 10px 10px beige;
+}
+
+body{
+    background-color: bisque;
+}
